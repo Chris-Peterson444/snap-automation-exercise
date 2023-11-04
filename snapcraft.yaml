@@ -53,6 +53,7 @@ parts:
     source-type: git
     plugin: make
     source-depth: 1
+    source-tag: '0.1.4'
 
   app-3:
     source: https://github.com/chris-peterson444/versioning-example-app-3
@@ -63,6 +64,7 @@ parts:
     prime:
       - usr/bin/app-3
     source-depth: 1
+    source-tag: '0.1.4'
 
   scripts:
     source: .
