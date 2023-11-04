@@ -64,7 +64,7 @@ parts:
     prime:
       - usr/bin/app-3
     source-depth: 1
-    source-tag: '0.1.4'
+    source-tag: '1.4'
 
   scripts:
     source: .
