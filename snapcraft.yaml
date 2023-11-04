@@ -49,7 +49,7 @@ parts:
     source-depth: 1
 
   app-2:
-    source: https://github.com/chris-peterson444/versioning-example-app-2/archive/refs/tags/0.1.0.tar.gz
+    source: https://github.com/chris-peterson444/versioning-example-app-2
     plugin: make
     source-depth: 1
 
