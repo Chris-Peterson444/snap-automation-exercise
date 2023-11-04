@@ -45,7 +45,7 @@ parts:
     override-pull: |
       craftctl default
       craftctl set version=$(git describe --tags --abbrev=10)
-    source-tag: '0.1.5'
+    source-tag: '0.1.6'
     source-depth: 1
 
   app-2:
